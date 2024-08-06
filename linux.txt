@@ -1,0 +1,22 @@
+Dear Hiring Manager,
+
+I am writing to apply for the Linux System Administrator position listed on LifeScale Analytics. With over 15 years of experience in system administration and Linux engineering, I am confident that I can bring my experience and expertise to the team and make a positive impact on the operations of the company.
+
+I have a thorough understanding of Linux systems, applications, and processes. I have extensive experience in designing, developing, and administering Linux systems and networks. I have a proven track record of providing reliable and scalable systems to meet the needs of customers and users. Additionally, I am well-versed in configuring, managing, and troubleshooting Linux systems, including database systems, web servers, and application servers.
+
+My experience also includes:
+
+    Configuring and maintaining Linux servers
+    Installing, configuring, and managing software packages
+    Developing bash and python scripts to automate system processes
+    Performing system backups and restorations
+    Monitoring system performance and resolving any issues
+    Setting up and managing user accounts
+    Providing technical support and training for junior staff
+
+I am motivated to learn new technologies and have an eagerness to stay up-to-date with the latest Linux releases. I am also a strong communicator and leader, able to coordinate with various teams to ensure successful deployment and maintenance of systems.
+
+I am confident that I am the ideal candidate for this position and am excited to discuss my qualifications in greater detail. I have attached my resume for your review, and I am available for an interview at your earliest convenience. Thank you for your time and consideration.
+
+Sincerely,
+Gerson Ramirez Pedre
